@@ -1,0 +1,14 @@
+Hi there,
+I am Mukarram.
+I recently started my journey into full stack development at CFI (Code For India), and I'm currently diving into HTML and CSS in my first week. Learning these languages has been a mix of enjoyment and challenge. 
+HTML, which helps structure web pages and create different elements like headings and paragraphs, has been straightforward to understand.
+On the other hand, CSS has presented some difficulties, especially when it comes to colors and styling. 
+CSS is all about making websites look attractive and organized, but figuring out which colors to use and how to apply styles can be tricky. 
+I'm learning to use CSS rules to change the appearance of elements like fonts, colors, margins, and more. It's a creative process that requires attention to detail and experimentation, and i also find it a bit tricky when it comes to some specific commands in CSS which makes me realise that am definitely not a creative guy when it comes to colours and styling part.
+Despite the challenges, I'm enjoying the hands-on experience and the support provided by my instructor. 
+The practical exercises and guidance from instructor is helping me grasp these concepts better. 
+Looking ahead, I'm excited about learning JavaScript and other backend technologies in the full stack development curriculum. 
+I believe these skills will encourage me to create interactive websites and applications in the future.
+Overall, while there are challenges in learning, I'm motivated by the opportunity to acquire valuable skills that will help me in the way for a rewarding career in web development.
+
+~Ba-byee

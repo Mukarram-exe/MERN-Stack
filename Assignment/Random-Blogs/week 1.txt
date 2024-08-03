@@ -1,0 +1,19 @@
+Hi there,
+I am Mukarram.
+I'm currently in my first week of learning Linux and command-line programming, and I'm finding it surprisingly easy. 
+I had some prior experience with a basic ethical hacking course, which helped me understand Linux commands better. 
+This familiarity has made navigating the command line, creating and managing files and directories, and performing system tasks feel quite enjoyable. Linux offers a powerful environment for development and I'm eager to explore its extent.
+My instructor's approach to teaching Linux has been helpful, providing practical and clear explanations that build my existing knowledge. 
+I appreciate how Linux commands can be used to automate tasks and manage computer systems efficiently.
+Understanding commands like ls (list files), cd (change directory), mkdir (make directory), and others has been straightforward due to my prior exposure.
+I'm particularly interested in learning more about shell and bash scripting which allows me to automate tasks.
+It's fascinating to see how commands can be combined to create powerful scripts that enhance productivity and streamline operations.
+I've also learn how to join multiple commands,it's called pipeing
+I find this concept awesome as every previous command acts as input to the next upcoming commands
+Basically pipe is denoted by (|)
+Looking ahead in the curriculum, I'm excited to go deeper into Linux networking, security, and server management. 
+I find this really cool because These skills will be valuable as I progress in my studies and pursue a career in IT or AIDS.
+Mastering Linux and command-line programming opens up many opportunities in the tech industry, and it also pays up a decent amount of money which evey GEN-Z dreams of when we enter the corporate world.
+Overall, while there's still much to learn, I'm enjoying the journey of discovering Linux's capabilities and gaining proficiency in command-line programming. I look forward to applying what I've learned to real-world projects and expanding my knowledge further in the weeks to come.
+
+~Ba-byee

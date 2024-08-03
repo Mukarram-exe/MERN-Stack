@@ -1,0 +1,19 @@
+During the early days of linus kernel maintainence, changes were passed through patches and archived files{1991-2002}.
+It was good untill 2002. In 2002 a commercial company launched bitkeeper.
+All linux kernal project began using the proprietary DVCS of bitkeeper.
+3 years later, in 2005 the relations between the linux kernal and commercial company of bitkeeper broke down.
+The tools which bitkeeper provided which were free of cost were revoked.
+Now they(linus torvalds and team ) had to buit their own tools using the some lessons from bitkeeper.
+which had the following qualities in it:
+-more fast
+-more effective
+-more reliable
+-more easy to use 
+-easy and simple design 
+Since its birth in 2005 git has evolved and matured to be easy to use and its amazingly fast.
+Git quickly became the primary version control system for the Linux kernel development community, replacing BitKeeper.
+later github was introduced. 
+Founded in 2008, GitHub popularized Git by providing a web-based hosting service for Git repositories, making collaboration easier 
+Git’s history is marked by its innovative approach to version control, empowering developers worldwide with tools for efficient collaboration and robust version management. 
+From its origins in managing Linux kernel development to becoming the backbone of modern software development workflows, Git continues to evolve, driven by the needs of its community and the demands of an ever-changing technological landscape.
+Its impact extends beyond version control, influencing how teams collaborate, innovate, and deliver software globally.

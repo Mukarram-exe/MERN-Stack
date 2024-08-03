@@ -1,0 +1,30 @@
+Hi there,
+I am Mukarram.
+I've learned many new things in these 4 weeks about JavaScript.
+I learned FUNCTIONS, IF-ELSE statements, SWITCH, LOOPS and all.
+Today I was introduced to the Swapping concept.
+Which looked quite easy to hear, but the logic we needed to code the swapping program made me remember my 5th grade.
+We used simple mathematics logic to code the programs.
+When I first tried writing a swap program in JavaScript, it was challenging.
+The basic idea was to exchange the values of two variables, but the real thrill came from exploring various methods to achieve this.
+Initially, I started with the classic OG method using a temporary(Temp) variable. 
+For example, if I had variables `a` and `b`, I had to introduce a third variable `temp` to hold the value of `a` while I assigned the value of `b` to `a`, and finally, assigned the value of `temp` to `b`. 
+I know that sounds very weird and confusing but that's how the basic logic of swapping is executed.
+Anyway, This logic worked perfectly and helped me understand the fundamentals. 
+However, my curiosity pushed me to explore more techniques, starting with the arithmetic operators. 
+I learned that I could swap values without a temporary variable by using addition and subtraction. 
+For instance, by setting `a = a + b`, then `b = a - b`, and finally `a = a - b`, the values of `a` and `b` would be swapped. 
+When one of my Cohort mates said this logic, I was like "What is he saying?"
+it took me some time to process the logic but yeah finally I understood.
+Next, I learned about using multiplication and division for swapping. 
+Although these methods were not recommended for educational knowledge I had to know all this. 
+As I went deeper, I discovered the power of the bitwise XOR operator.
+Even this method had the same syntax but with a slight operator difference. 
+Each method taught me more about JavaScript's operators and how to manipulate values differently. 
+Finally, I came across the use of negation represented by `~`. This method is a bit more complex and less common, but it involves using the properties of negation and bitwise XOR to achieve the swap.
+Exploring these different techniques was a new experience. 
+It not only broadened my understanding of JavaScript but also improved my problem-solving skills,
+Each method had its unique characteristics, and I enjoyed experimenting with them to see how they worked. 
+Through this process, I gained a deeper understanding of the logic behind every function and how things work behind the scenes on our web.
+
+~Ba-byee
